@@ -7,7 +7,7 @@ A powerful tool for visualizing and querying relationships between ArXiv paper a
 This project leverages the power of graph databases and AI to create interactive visualizations of academic relationships from ArXiv papers. By combining multiple MCP servers with Claude AI, we can extract, process, and visualize complex relationships between researchers, their affiliations, and their collaborative networks.
 
 ## 🚀 Demo
-https://github.com/user-attachments/assets/e5eefb17-c548-469e-9211-b0e5ba0911d7
+https://github.com/eyeou/Network_Collab/raw/refs/heads/main/reduced_demo.m4v
 
 ## ✨ Features
 
