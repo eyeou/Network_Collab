@@ -1,4 +1,3 @@
-https://github.com/user-attachments/assets/e5eefb17-c548-469e-9211-b0e5ba0911d7
 # ArXiv Entity-Relationship Visualization
 
 A powerful tool for visualizing and querying relationships between ArXiv paper authors and their affiliations using Claude AI, Neo4j graph database, and MCP (Model Context Protocol) servers.
@@ -6,6 +5,9 @@ A powerful tool for visualizing and querying relationships between ArXiv paper a
 ## 🎯 Overview
 
 This project leverages the power of graph databases and AI to create interactive visualizations of academic relationships from ArXiv papers. By combining multiple MCP servers with Claude AI, we can extract, process, and visualize complex relationships between researchers, their affiliations, and their collaborative networks.
+
+## 🚀 Demo
+https://github.com/user-attachments/assets/e5eefb17-c548-469e-9211-b0e5ba0911d7
 
 ## ✨ Features
 
@@ -215,7 +217,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- The contributors in this repo!
+- Original team (@Claudio9701 @neohack22 @maxscience @dalila3244)
 - [ArXiv](https://arxiv.org/) for providing open access to research papers
 - [Neo4j](https://neo4j.com/) for the powerful graph database
 - [Anthropic](https://www.anthropic.com/) for Claude AI
